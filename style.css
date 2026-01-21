@@ -18,7 +18,7 @@ a:hover { text-decoration:underline; }
 
 header {
   display:flex; gap:16px; align-items:center;
-  padding:10px 5px 12px 5px; 
+  padding:12px 5px 14px 5px; 
   border:2.5px solid black;
   background-color: rgba(4, 209, 192, 0.8); border-radius: 10px;
   box-shadow: 3px 3px 0px rgba(30,30,30, 0.85);
